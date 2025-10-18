@@ -1,0 +1,9 @@
+FIR Number: FIR20250516221330
+Reporter Name: chain snaching case
+Incident Date: 2025-05-16
+Incident Time: 22:09
+Location: Banglore
+Incident Description: gold chain is stolen
+Persons Involved: Rohit
+Witnesses: xyz
+Evidence Provided: cctv
